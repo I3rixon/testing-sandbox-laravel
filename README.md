@@ -13,6 +13,7 @@ This project is a sandbox for exploring and learning the [Filament](https://fila
 - **Filament Admin Panel:** Experimenting with Filament’s admin panel features.
 - **Demo Features:** Various demo resources, forms, and tables built using Filament.
 - **Learning Purpose:** This project is intended for learning and testing Filament’s capabilities in a real Laravel application.
+- **Livewire:** Exploring [Livewire](https://laravel-livewire.com/) as part of the TALL stack and its integration with Filament.
 
 ## Getting Started
 
@@ -26,7 +27,8 @@ This project is a sandbox for exploring and learning the [Filament](https://fila
 
 - [Filament Documentation](https://filamentphp.com/docs)
 - [Filament GitHub](https://github.com/filamentphp/filament)
+- [Livewire Documentation](https://laravel-livewire.com/docs)
 
 ---
 
-This project is not intended for production use. It is a playground for testing and understanding the Filament package within a Laravel application.
+This project is not intended for production use. It is a playground for testing and understanding the Filament package and Livewire within a Laravel application.
