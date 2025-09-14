@@ -3,8 +3,12 @@
 use Illuminate\Support\Facades\Route;
 use App\Livewire\Counter;
 
+
 Route::get('/', function () {
     return view('welcome');
 });
 
 Route::get('/counter', Counter::class);
+Route::get('/hello', function (){
+    return Hello::sayHello('Alex 73 55');
+});

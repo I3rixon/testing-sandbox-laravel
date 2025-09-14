@@ -1,0 +1,10 @@
+<?php
+
+namespace App\Services;
+class HelloService
+{
+    public function sayHello(string $name): string
+    {
+        return "Hello, {$name}!";
+    }
+}
